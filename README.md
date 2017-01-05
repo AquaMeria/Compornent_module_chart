@@ -14,10 +14,10 @@
 ## ディレクトリ構造  
  ルート  
 　├ [css] … サイトで使用するCSSファイル  
-　│　├ bootstrap.min.css … Bootstrapの標準CSS  
-　│　├ module.css … 吹き出しCSS      
+　│　└ bootstrap.min.css … Bootstrapの標準CSS       
 　│    
 　├ [js] … サイトで使用するJavaScriptファイル  
-　│　└ bootstrap.min.js … Bootstrapの標準JS          
-　│  
+　│　├ bootstrap.min.js … Bootstrapの標準JS          
+　│　└ module.js … グラフの描画JS
+　│ 
 　└ index.html
