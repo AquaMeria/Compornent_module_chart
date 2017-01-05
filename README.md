@@ -18,6 +18,6 @@
 　│    
 　├ [js] … サイトで使用するJavaScriptファイル  
 　│　├ bootstrap.min.js … Bootstrapの標準JS          
-　│　└ module.js … グラフの描画JS
-　│ 
+　│　└ module.js … グラフの描画JS  
+　│  
 　└ index.html
